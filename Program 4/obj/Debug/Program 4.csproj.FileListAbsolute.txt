@@ -1,0 +1,7 @@
+D:\Documents\CS Editor Files\Patterns Class\Program 4\Program 4\bin\Debug\Program 4.exe.config
+D:\Documents\CS Editor Files\Patterns Class\Program 4\Program 4\bin\Debug\Program 4.exe
+D:\Documents\CS Editor Files\Patterns Class\Program 4\Program 4\bin\Debug\Program 4.pdb
+D:\Documents\CS Editor Files\Patterns Class\Program 4\Program 4\obj\Debug\Program 4.csprojResolveAssemblyReference.cache
+D:\Documents\CS Editor Files\Patterns Class\Program 4\Program 4\obj\Debug\Program 4.csproj.CoreCompileInputs.cache
+D:\Documents\CS Editor Files\Patterns Class\Program 4\Program 4\obj\Debug\Program 4.exe
+D:\Documents\CS Editor Files\Patterns Class\Program 4\Program 4\obj\Debug\Program 4.pdb
